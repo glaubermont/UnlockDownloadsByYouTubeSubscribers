@@ -137,7 +137,7 @@ $('a[href^="https://www.youtube.com"]').on('click', function(e){
  <html lang ="en">  
       <head>  
 	
-           <title>GuitarPreset</title>  
+           <title>UnlockDownloadsByYouTubeSubscribers</title>  
                        <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">	   
          
@@ -145,12 +145,7 @@ $('a[href^="https://www.youtube.com"]').on('click', function(e){
            <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>            
            <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" />
 
-		    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-			<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-			<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-			<link rel="manifest" href="/site.webmanifest">
-			<link rel="shortcut icon" href="{{ asset('favicon.ico') }}">
-<link rel="icon" type="image/png" href="{{ asset('favicon.png') }}">
+
       </head>  
       <body> 
  

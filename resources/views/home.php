@@ -1,23 +1,10 @@
 <?php include "topbar.php" ; ?>
-<style>
-
-
-
-body {
-    background-image: url("../resources/images/stratoguitar.jpg"); 
-	 width: 100%;
-  height: auto;
-	}
-</style>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="description" content="Site about backing tracks and download guitar tone presets - Download Guitar rig presets , amplitube presets , Impulse response">
-	<meta name="keywords" content="guitar rig, amplitube, guitar patches, tone presets, Bias fx, Impulse response, backing tracks">
-	<meta name="author" content="GuitarPreset">
-	<meta name ="robots" content ="index,follow">
-  <title>UnlockDownloadsByYoutubeSubscribers</title>
+
+  <title>UnlockDownloadsByYouTubeSubscribers</title>
   
    
    
@@ -28,7 +15,7 @@ body {
 </head>
 <body>
    
-<?php include "gldp.php" ; ?>
+
 </body>
 
 
